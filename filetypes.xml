@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Agent.py" type="PLAIN_TEXT" />
       <mapping pattern="token" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="Agent" type="Python" />
     </extensionMap>
   </component>
