@@ -2,10 +2,12 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <removed_mapping ext="ini" approved="true" type="Ini" />
       <mapping pattern="Agent.py" type="PLAIN_TEXT" />
       <mapping pattern="token" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="Agent" type="Python" />
+      <removed_mapping ext="ini" approved="true" type="Ini" />
     </extensionMap>
   </component>
 </application>
